@@ -1,0 +1,205 @@
+population_group_id,population_group_name,measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,All Population,6,Incidence,522,Sudan,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,247.9044784816,323.20129377992004,190.74399256175
+1,All Population,6,Incidence,94,Switzerland,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,503.45253882804,571.01610388369,443.58418571551
+1,All Population,6,Incidence,95,United Kingdom,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,273.54941202473003,328.73618573498,226.09201725557
+1,All Population,6,Incidence,110,Dominica,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,367.19748467063,474.57782644584,278.79722096083
+1,All Population,6,Incidence,215,Sao Tome and Principe,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,246.13531943802,320.59217884962,189.61475570542
+1,All Population,6,Incidence,81,Germany,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,200.87936376754,259.18026691277004,152.41407169437
+1,All Population,6,Incidence,54,Slovakia,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,412.61407717694,473.38594647947,355.26233083258
+1,All Population,6,Incidence,41,Uzbekistan,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,331.09966503001,419.7722983204901,256.33999975208
+1,All Population,6,Incidence,28,Solomon Islands,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,438.484977545,545.78414559278,337.41276867238
+1,All Population,6,Incidence,161,Bangladesh,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,325.30216252623,421.98911475173,249.12177156131
+1,All Population,6,Incidence,217,Sierra Leone,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,241.47554792285,315.8896591755,184.93958292145
+1,All Population,6,Incidence,97,Argentina,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,154.45440378528,202.06325423469,117.66448864116
+1,All Population,6,Incidence,55,Slovenia,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,296.55324102479,353.3358730723,247.93301471527
+1,All Population,6,Incidence,68,Republic of Korea,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,126.21203726374,170.10986622279,91.77436422214
+1,All Population,6,Incidence,82,Greece,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,209.3882890449,261.29872701716,166.8663460457
+1,All Population,6,Incidence,14,Maldives,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,466.50917951275,595.50386838309,364.7797231571501
+1,All Population,6,Incidence,203,Cabo Verde,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,247.90525598751,321.5682583912,190.63320493405
+1,All Population,6,Incidence,189,United Republic of Tanzania,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,261.78744010861004,341.81891691813,200.18051308719
+1,All Population,6,Incidence,218,Togo,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,242.37679878882,311.35901224035,186.10942368351
+1,All Population,6,Incidence,83,Iceland,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,189.9794381646,249.41004838471,144.12616909995
+1,All Population,6,Incidence,202,Cameroon,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,244.45955955677,319.78578434797,189.12018223464
+1,All Population,6,Incidence,108,Belize,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,354.91093869448,469.47657845476,271.2446914238
+1,All Population,6,Incidence,175,Burundi,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,262.23153155155,339.72632427937,202.39105743759
+1,All Population,6,Incidence,190,Uganda,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,263.52529369062,342.85471582532,200.8676984276
+1,All Population,6,Incidence,69,Singapore,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,126.95467765857,173.53043427181998,93.4400328073
+1,All Population,6,Incidence,29,Tonga,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,438.90177619509,555.4945349984899,339.02912206263
+1,All Population,6,Incidence,216,Senegal,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,247.87064539082,320.20787564261,190.38465748494
+1,All Population,6,Incidence,84,Ireland,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,195.38742310858,258.03770565367,144.99843043147
+1,All Population,6,Incidence,162,Bhutan,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,326.38767136673,429.49831785409,251.43295697983
+1,All Population,6,Incidence,204,Chad,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,244.25006675481,314.77206927112,188.34257556642
+1,All Population,6,Incidence,111,Dominican Republic,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,348.85311019811,457.53245858823,268.91012564254004
+1,All Population,6,Incidence,191,Zambia,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,263.04654870193,344.37459344021,202.87351824866
+1,All Population,6,Incidence,15,Myanmar,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,470.98196240075,595.4881709559401,369.26413695488
+1,All Population,6,Incidence,393,Saint Kitts and Nevis,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,360.78630153977,466.64396253755,278.40132718863
+1,All Population,6,Incidence,176,Comoros,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,260.69931052117,336.31775937367,197.29671566422
+1,All Population,6,Incidence,98,Chile,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,190.57489780231,244.74729040253,145.55211950761
+1,All Population,6,Incidence,298,American Samoa,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,469.69487869717,590.79032035533,364.78229732509
+1,All Population,6,Incidence,152,Saudi Arabia,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,253.13643619557,329.48930834982,195.20303449097
+1,All Population,6,Incidence,205,Côte d'Ivoire,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,245.29598803341,315.86486913561,188.09190626838
+1,All Population,6,Incidence,112,Grenada,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,363.60737843879,475.85123210439,279.65853510398
+1,All Population,6,Incidence,121,Bolivia (Plurinational State of),1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,337.19079725598,438.41716979123,255.77027658468
+1,All Population,6,Incidence,163,India,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,430.83092999048006,547.16944268038,335.25141231607
+1,All Population,6,Incidence,139,Algeria,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,248.97995818504,319.73862799702005,188.7727444553
+1,All Population,6,Incidence,193,Botswana,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,371.86069177556,468.29632722537,296.58680181056
+1,All Population,6,Incidence,135,Brazil,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,221.8977532384,271.02143270493,183.39357333325
+1,All Population,6,Incidence,177,Djibouti,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,262.7193697611,337.03345539083,202.57349280893
+1,All Population,6,Incidence,109,Cuba,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,357.50631432945,467.50907150884,271.37174141671
+1,All Population,6,Incidence,74,Andorra,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,194.82341625851,257.3882019956,146.3315686721
+1,All Population,6,Incidence,17,Sri Lanka,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,481.79188153183,600.93105377057,376.00484672431
+1,All Population,6,Incidence,164,Nepal,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,271.03651248508,334.86179856287004,221.17817268676
+1,All Population,6,Incidence,136,Paraguay,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,267.96192610544,349.30975680941003,197.76410201254
+1,All Population,6,Incidence,376,Northern Mariana Islands,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,438.77337094846,552.8039855009599,335.29935357346
+1,All Population,6,Incidence,16,Philippines,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,497.99678322455,622.35359382604,389.8492463105
+1,All Population,6,Incidence,30,Vanuatu,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,439.0042104882,556.64975272829,339.36508182166
+1,All Population,6,Incidence,148,Morocco,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,246.40688947703,323.78271315802,189.07871597475
+1,All Population,6,Incidence,206,Gambia,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,244.49952554575,314.16587734592,190.91263722236
+1,All Population,6,Incidence,122,Ecuador,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,337.62526374114,439.10806732189,258.09723422243
+1,All Population,6,Incidence,165,Pakistan,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,351.75019783949,445.10367897487,273.00826206518
+1,All Population,6,Incidence,210,Liberia,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,246.60676935003,313.28700544031,187.19960429467
+1,All Population,6,Incidence,149,Palestine,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,250.13565883837,322.44483902845,192.74395904446
+1,All Population,6,Incidence,123,Peru,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,331.62085276412,435.11090166441,253.42370776303
+1,All Population,6,Incidence,195,Namibia,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,320.86344960766,414.21946746206,247.09357703456
+1,All Population,6,Incidence,380,Palau,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,447.6327167663,563.44678273239,348.23375640401
+1,All Population,6,Incidence,125,Colombia,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,501.7927557316,645.5470172366701,388.94483909213
+1,All Population,6,Incidence,320,Cook Islands,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,446.46711809524,567.25507482561,346.65695633335
+1,All Population,6,Incidence,180,Kenya,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,327.99078907267,420.31763253255,250.45271088412
+1,All Population,6,Incidence,7,Democratic People's Republic of Korea,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,411.12896239642,521.1194836206,315.43673584452
+1,All Population,6,Incidence,43,Albania,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,374.72881263329,480.122140327,285.1467798246
+1,All Population,6,Incidence,57,Belarus,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,625.73093366631,776.72712738622,499.7352895623
+1,All Population,6,Incidence,385,Puerto Rico,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,365.98018438444,481.72879958829,277.41257869373004
+1,All Population,6,Incidence,140,Bahrain,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,263.6342556787,342.78551724700003,203.05174568685
+1,All Population,6,Incidence,153,Syrian Arab Republic,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,246.35327972716,320.03817127351,188.34342359145
+1,All Population,6,Incidence,178,Eritrea,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,262.72283607434,337.92194939349,199.32388607433
+1,All Population,6,Incidence,194,Lesotho,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,321.92977060836,406.2667274051,247.37756356715
+1,All Population,6,Incidence,6,China,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,300.54598547028,383.09290243513,237.06305560164
+1,All Population,6,Incidence,88,Malta,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,261.44130643273,305.45210913671,216.95463874769
+1,All Population,6,Incidence,46,Croatia,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,371.1567730076,437.4408316277,313.24765617442
+1,All Population,6,Incidence,396,San Marino,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,195.66066000914,262.48947345288,144.71073502777
+1,All Population,6,Incidence,33,Armenia,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,329.69300980863,423.98306426964007,253.87045120492
+1,All Population,6,Incidence,160,Afghanistan,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,249.89897519041,322.77511404109,190.00531623773
+1,All Population,6,Incidence,305,Bermuda,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,350.87029444693,456.01708373021,263.8902077753
+1,All Population,6,Incidence,413,Tokelau,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,440.45430686936,557.00952928504,337.11164010946004
+1,All Population,6,Incidence,126,Costa Rica,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,505.33342429723,644.72225640283,390.93835477138
+1,All Population,6,Incidence,179,Ethiopia,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,276.43413765045,353.02675568829,211.92297479831
+1,All Population,6,Incidence,150,Oman,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,248.59832304951,326.36732078436,189.56879154873
+1,All Population,6,Incidence,207,Ghana,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,246.51221289596,323.65451299659,190.35048869922
+1,All Population,6,Incidence,22,Fiji,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,458.62308340126,578.63508464027,348.33726017388
+1,All Population,6,Incidence,60,Lithuania,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,696.08859738197,802.7306872841901,586.54781634322
+1,All Population,6,Incidence,435,South Sudan,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,261.61534902374,340.25654634106,197.38462477538
+1,All Population,6,Incidence,18,Thailand,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,466.7469029931201,597.84387319672,368.35950456884
+1,All Population,6,Incidence,131,Nicaragua,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,505.08124209218,649.42540352025,393.62973567085
+1,All Population,6,Incidence,102,United States of America,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,216.72906315385,250.11827560348,185.10888862382
+1,All Population,6,Incidence,10,Cambodia,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,467.01416526712,586.4242012130101,363.82053159574
+1,All Population,6,Incidence,416,Tuvalu,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,443.86140818182,557.49233395291,339.22375466803004
+1,All Population,6,Incidence,151,Qatar,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,268.40196444125,345.83847064304,206.2939308143
+1,All Population,6,Incidence,367,Monaco,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,195.0787925101,260.81262520343,147.41296990124002
+1,All Population,6,Incidence,25,Micronesia (Federated States of),1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,445.42107735068,560.95583392901,341.71290258322
+1,All Population,6,Incidence,168,Angola,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,245.83823785749,323.85574667026003,188.81208856557
+1,All Population,6,Incidence,49,North Macedonia,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,387.7136404156,489.31532073313,299.94173565823
+1,All Population,6,Incidence,422,United States Virgin Islands,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,359.76964621651,461.82382921157,275.7298322681
+1,All Population,6,Incidence,19,Timor-Leste,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,467.05375621264,596.93378546503,365.80988067298
+1,All Population,6,Incidence,20,Viet Nam,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,531.54615280708,655.94589997234,431.76855107971
+1,All Population,6,Incidence,211,Mali,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,244.30468387607,315.33355310404,187.11969433055
+1,All Population,6,Incidence,53,Serbia,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,421.73533795107,496.95724057579,350.30572519514
+1,All Population,6,Incidence,154,Tunisia,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,249.65756120648,325.77222706856,189.34698500586
+1,All Population,6,Incidence,145,Kuwait,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,253.5949249562,330.44541665681,195.30586841573
+1,All Population,6,Incidence,92,Spain,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,190.07133206281,246.23130432502,137.56064155583
+1,All Population,6,Incidence,34,Azerbaijan,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,329.93001624917,419.62763359155,252.88953179701
+1,All Population,6,Incidence,155,Türkiye,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,242.9479062004,313.01533498169,187.28082665338
+1,All Population,6,Incidence,8,Taiwan,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,470.91264341869,576.95199297259,377.48541889179
+1,All Population,6,Incidence,75,Austria,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,476.11355402063,541.63133303366,418.3871193407901
+1,All Population,6,Incidence,61,Republic of Moldova,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,632.82070249842,780.13963871621,505.72433771275
+1,All Population,6,Incidence,58,Estonia,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,629.84470574882,780.56266171986,496.28891275141
+1,All Population,6,Incidence,117,Saint Vincent and the Grenadines,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,367.40983031046,482.38802457964,280.96224366475
+1,All Population,6,Incidence,44,Bosnia and Herzegovina,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,385.39896442502,483.82698037455,295.04717018415
+1,All Population,6,Incidence,89,Netherlands,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,193.49122488984,252.66326905833003,145.63236885667
+1,All Population,6,Incidence,62,Russian Federation,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,664.59258158383,812.58364829479,536.1402134621101
+1,All Population,6,Incidence,173,Gabon,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,246.99221480813,322.15798226704004,190.56339899649
+1,All Population,6,Incidence,71,Australia,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,234.89374871873,315.72304964245,173.46771314312
+1,All Population,6,Incidence,113,Guyana,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,369.16705528288,477.08152440798,282.74185248003
+1,All Population,6,Incidence,63,Ukraine,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,665.47029151758,813.43984793194,534.62839429149
+1,All Population,6,Incidence,85,Israel,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,196.14124902082,259.57910047574,146.93208284151
+1,All Population,6,Incidence,67,Japan,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,143.7604484512,186.46455149771,113.39357902858
+1,All Population,6,Incidence,45,Bulgaria,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,380.11354995867,478.58821417695,290.95462483729
+1,All Population,6,Incidence,349,Greenland,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,211.58832711684,275.84943746167,160.22843531595998
+1,All Population,6,Incidence,59,Latvia,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,630.1160545037201,780.1215258588301,496.85389151552
+1,All Population,6,Incidence,99,Uruguay,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,152.34266572495,200.39508005182,117.08898755147
+1,All Population,6,Incidence,208,Guinea,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,244.08960917769,313.49558358963003,186.19547059987
+1,All Population,6,Incidence,127,El Salvador,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,503.53857849247,634.80089328557,387.85951244072
+1,All Population,6,Incidence,184,Mozambique,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,263.69030855871,343.15177359173,203.18794573975
+1,All Population,6,Incidence,106,Bahamas,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,360.06540126650003,465.0187370933101,276.18502701465
+1,All Population,6,Incidence,35,Georgia,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,377.79591403036,452.46214203982,317.42609901862
+1,All Population,6,Incidence,72,New Zealand,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,256.6470739062,309.48737903575,209.89826309405
+1,All Population,6,Incidence,141,Egypt,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,243.80765844105,316.78553623904,184.02708392894
+1,All Population,6,Incidence,209,Guinea-Bissau,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,245.19341900546,319.82056606024,189.118078156
+1,All Population,6,Incidence,47,Czechia,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,474.47780497204,584.11306037591,384.57797363794
+1,All Population,6,Incidence,107,Barbados,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,358.93661964863,466.01280828683,272.85839538124
+1,All Population,6,Incidence,23,Kiribati,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,447.58514883685,562.69386662434,345.38864473932
+1,All Population,6,Incidence,78,Denmark,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,208.15416285755,284.03897941445,148.49461312791
+1,All Population,6,Incidence,213,Niger,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,241.7701047983,315.05289205476,186.69908288194
+1,All Population,6,Incidence,187,Somalia,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,262.67668650003003,332.92982292511,198.41453686994
+1,All Population,6,Incidence,196,South Africa,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,347.00876799266,440.15856695801,268.41576392946
+1,All Population,6,Incidence,90,Norway,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,537.14861576155,658.2787786970799,435.89400153641
+1,All Population,6,Incidence,105,Antigua and Barbuda,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,361.70342015208,468.54562888686,281.28771182249
+1,All Population,6,Incidence,86,Italy,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,338.87046558164,398.84177538821,286.26602921924
+1,All Population,6,Incidence,156,United Arab Emirates,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,256.67401770588,332.33888487163,198.22125079791
+1,All Population,6,Incidence,212,Mauritania,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,242.26305052328,312.9967880809,187.53404207258
+1,All Population,6,Incidence,181,Madagascar,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,260.92635490844,333.37957409072,198.19730941377
+1,All Population,6,Incidence,93,Sweden,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,234.53680869366,307.32637043052,177.52462477648
+1,All Population,6,Incidence,36,Kazakhstan,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,332.90821026769004,420.18466974476,255.10089565237
+1,All Population,6,Incidence,50,Montenegro,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,384.06375123633,486.22700666339,294.50589310371
+1,All Population,6,Incidence,214,Nigeria,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,257.53071573033,327.19892209783,198.86834473019
+1,All Population,6,Incidence,351,Guam,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,430.03280370571,553.11071975675,331.06777146806
+1,All Population,6,Incidence,200,Benin,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,245.21235573197,317.10209439556,188.35919940609
+1,All Population,6,Incidence,76,Belgium,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,438.56791510684,549.0327797272399,295.59539698882
+1,All Population,6,Incidence,87,Luxembourg,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,213.96660847855,277.14729441212,165.07686446035
+1,All Population,6,Incidence,169,Central African Republic,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,247.6500734902,321.21215802898,190.6402710939
+1,All Population,6,Incidence,170,Congo,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,247.3112075971,320.82605440809,185.84313713513
+1,All Population,6,Incidence,132,Panama,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,504.95509246054,645.9542967490399,393.39129273044
+1,All Population,6,Incidence,369,Nauru,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,441.1310491189501,553.36082536709,341.20217514959
+1,All Population,6,Incidence,142,Iran (Islamic Republic of),1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,262.64589572339,335.85848924924,201.40292785202
+1,All Population,6,Incidence,26,Papua New Guinea,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,437.55880498069,549.83450621396,337.80193761245
+1,All Population,6,Incidence,146,Lebanon,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,247.69574675022,320.28520633622,190.37683941139
+1,All Population,6,Incidence,91,Portugal,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,198.92122634154,257.65023227259,150.19036453183
+1,All Population,6,Incidence,128,Guatemala,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,509.7219919951201,654.9171139343,397.78280703681
+1,All Population,6,Incidence,114,Haiti,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,363.19527156993,473.4493363299701,280.10706497555
+1,All Population,6,Incidence,185,Rwanda,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,260.95735483623,341.8250227827,197.60433947913
+1,All Population,6,Incidence,101,Canada,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,210.61152712971,272.68960502877,163.18026937694
+1,All Population,6,Incidence,24,Marshall Islands,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,469.0901535487,584.2227370865701,367.62287088861
+1,All Population,6,Incidence,37,Kyrgyzstan,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,287.45683421234,368.88982885842,220.75174869678
+1,All Population,6,Incidence,143,Iraq,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,250.33995586026,323.93566679421,195.20165557614
+1,All Population,6,Incidence,39,Tajikistan,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,332.27681721384,424.08688042202,256.47703882044
+1,All Population,6,Incidence,182,Malawi,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,263.67253886563003,337.59130251783,201.61970684118
+1,All Population,6,Incidence,118,Suriname,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,366.98354751392,474.50138779246,278.62850319894
+1,All Population,6,Incidence,197,Eswatini,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,324.60228142015,416.85156605445,249.83998547724
+1,All Population,6,Incidence,11,Indonesia,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,438.56538889667,546.72908933871,347.11619039701003
+1,All Population,6,Incidence,51,Poland,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,312.62419446437,370.01967911669,261.05356519512
+1,All Population,6,Incidence,66,Brunei Darussalam,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,136.80254178865002,185.41652166739,100.48509061855
+1,All Population,6,Incidence,48,Hungary,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,382.29136542022,483.15306663639007,291.70860586614003
+1,All Population,6,Incidence,157,Yemen,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,241.45275098143,312.60266724954,184.12518971415
+1,All Population,6,Incidence,201,Burkina Faso,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,244.44999201124,313.77412930513003,186.22492927634
+1,All Population,6,Incidence,79,Finland,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,432.98448057957006,498.05593032057,370.2554350926901
+1,All Population,6,Incidence,129,Honduras,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,507.75719213823,648.0443384021299,397.28747400391
+1,All Population,6,Incidence,115,Jamaica,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,361.47362897975,469.08425319388,273.54725155047004
+1,All Population,6,Incidence,77,Cyprus,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,193.21330481788,233.11487522828003,161.74762424811
+1,All Population,6,Incidence,183,Mauritius,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,487.35387652301,619.97456758309,382.06210660228
+1,All Population,6,Incidence,147,Libya,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,252.31678437261,332.17707569822,193.40152739635
+1,All Population,6,Incidence,144,Jordan,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,277.04316418554,354.24835073673,217.2425719612
+1,All Population,6,Incidence,133,Venezuela (Bolivarian Republic of),1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,503.63059836876,637.59887504803,392.99677833491006
+1,All Population,6,Incidence,38,Mongolia,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,322.3325351613,421.10151939983,245.5758755222
+1,All Population,6,Incidence,52,Romania,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,448.82867545304,534.12808093226,371.72738178271
+1,All Population,6,Incidence,198,Zimbabwe,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,324.78104268315,417.86783438057,250.6817586184
+1,All Population,6,Incidence,27,Samoa,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,440.48252269402,556.58090697471,341.38047768219
+1,All Population,6,Incidence,374,Niue,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,459.71261118811,578.75756611756,355.35292979572
+1,All Population,6,Incidence,119,Trinidad and Tobago,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,368.95435285749,481.75985444831,283.35296935232
+1,All Population,6,Incidence,130,Mexico,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,537.71598155407,644.95006997591,446.3724130955901
+1,All Population,6,Incidence,116,Saint Lucia,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,370.28742711424,482.89690333536,288.48930548267
+1,All Population,6,Incidence,186,Seychelles,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,483.28635165491,605.58834869064,375.5192048800501
+1,All Population,6,Incidence,171,Democratic Republic of the Congo,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,245.83679615361,324.63398872126,186.94050072834
+1,All Population,6,Incidence,12,Lao People's Democratic Republic,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,471.51824742240007,597.7866331796599,367.50954766248
+1,All Population,6,Incidence,80,France,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,191.75198981861,251.77578861429,142.60357177183
+1,All Population,6,Incidence,40,Turkmenistan,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,329.38892111752,423.17983782692,252.10420824145
+1,All Population,6,Incidence,13,Malaysia,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,473.49459044626,599.13243266246,367.77334122726
+1,All Population,6,Incidence,172,Equatorial Guinea,1,Male,27,Age-standardized,597,Benign prostatic hyperplasia,3,Rate,2021,247.64634802768,322.86214349225,190.38604437956

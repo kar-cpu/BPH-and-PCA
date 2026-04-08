@@ -1,0 +1,207 @@
+Population,Location,Year,Age,Sex,Cause of death or injury,Measure,Value,Lower bound,Upper bound
+All Population,Afghanistan,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",8.98196429315962,5.337624382206301,13.70869396095737
+All Population,Angola,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",56.56056483949882,38.37732032450521,78.61859406417166
+All Population,Albania,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",31.89839119597071,22.154184336777824,43.574459132979364
+All Population,Andorra,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",65.44957667435717,41.95282882999501,94.47877200654901
+All Population,United Arab Emirates,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",14.422188928249783,8.684047058235558,22.546678221594263
+All Population,Argentina,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",40.349702130872195,33.05185237716483,49.23366759680863
+All Population,Armenia,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",24.790550757619698,20.33081030186941,30.45134590801125
+All Population,American Samoa,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",85.61752881350357,56.68925559634962,117.32601563988996
+All Population,Antigua and Barbuda,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",139.41344680367715,104.2406406601959,179.01521444480267
+All Population,Australia,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",95.26366683696179,83.0534348161353,110.3255031585697
+All Population,Austria,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",68.10501188343214,53.85380931266845,85.08905170681025
+All Population,Azerbaijan,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",16.58769013897882,12.320474370327053,22.100192079724355
+All Population,Burundi,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",28.113165099639556,16.9247040177562,43.290730159645015
+All Population,Belgium,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",60.42295312182979,47.25847119722064,75.0712966403882
+All Population,Benin,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",43.17310454219818,29.06625024985412,60.8059433495363
+All Population,Burkina Faso,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",25.78272123086302,15.294562918672158,39.85669229196626
+All Population,Bangladesh,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",11.57984022504796,6.824510886496357,19.39041635593263
+All Population,Bulgaria,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",49.455777882177806,40.29207005271049,60.062468674444226
+All Population,Bahrain,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",34.999785834115805,24.440959202744654,48.74642564568972
+All Population,Bahamas,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",196.27350622601625,157.02648674374413,251.85415328846386
+All Population,Bosnia and Herzegovina,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",33.53649990105568,22.115075375472973,44.24830903402674
+All Population,Belarus,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",84.75353393222021,66.12862337250027,103.19363528287222
+All Population,Belize,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",68.72571671861881,56.01451255088952,85.3756344042151
+All Population,Bermuda,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",170.27530260524546,121.45122927693826,224.10976364373508
+All Population,Bolivia (Plurinational State of),2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",104.29628315079353,69.14177091629313,148.26589459053446
+All Population,Brazil,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",44.2613060026863,36.74830012113036,53.83552097683303
+All Population,Barbados,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",136.8018342402378,104.67737541322806,178.14220971613435
+All Population,Brunei Darussalam,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",18.74550847313366,13.208822001158941,25.75320527055909
+All Population,Bhutan,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",6.32400168406403,3.513505514590566,10.243544327790461
+All Population,Botswana,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",14.92361248185089,10.240042380654879,21.21309861933772
+All Population,Central African Republic,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",29.43270831011578,18.159511247056404,45.01053574876264
+All Population,Canada,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",58.897473085151624,46.984270176508694,73.63485172537762
+All Population,Switzerland,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",72.1808791262245,57.241133244981846,90.8323262717582
+All Population,Chile,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",51.63856131917496,43.08935680562938,61.0635782276213
+All Population,China,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",8.252095370139417,5.958109121880909,10.561797489438959
+All Population,Côte d'Ivoire,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",46.22618034952804,32.229819969277266,63.475384050768
+All Population,Cameroon,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",38.519453031892176,22.329124575427578,60.99776457784969
+All Population,Democratic Republic of the Congo,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",58.03493719656596,37.53458061990168,82.26645114451358
+All Population,Congo,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",54.96532461943252,37.32957040731747,75.58826548008776
+All Population,Cook Islands,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",167.74858302494525,106.69695382206544,243.8910299422556
+All Population,Colombia,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",53.44222289296681,42.53649056582745,64.89964292116876
+All Population,Comoros,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",15.906979495484324,8.450534685352256,26.58034757877836
+All Population,Cabo Verde,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",50.61709304654104,32.22016216552385,73.52488734429053
+All Population,Costa Rica,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",77.59174157379925,61.66139042367413,96.90847312749348
+All Population,Cuba,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",129.11056069549772,103.89717542255501,157.78788433022504
+All Population,Cyprus,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",78.95222458914536,53.032257473302785,118.06441982634371
+All Population,Czechia,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",62.05063769645813,55.51912077134025,69.58316598293784
+All Population,Germany,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",85.60265521823459,78.5214774943876,94.68307290089679
+All Population,Djibouti,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",22.548141426049007,13.735132837343563,35.44137312160778
+All Population,Dominica,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",134.1003309933258,94.44100424613015,183.42437630293634
+All Population,Denmark,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",83.2000766401746,69.5908389501724,97.24811937145974
+All Population,Dominican Republic,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",92.25747548689804,61.13872890362329,125.72370485068303
+All Population,Algeria,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",5.671863043166013,2.733722895321172,9.4556149343663
+All Population,Ecuador,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",58.3903333869291,47.09625872072983,71.57246953683261
+All Population,Eritrea,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",17.894518515122865,11.585480501275054,26.716239925676707
+All Population,Spain,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",56.91953923836501,43.790596345996136,72.5211284313003
+All Population,Estonia,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",119.066905367883,94.01433937123008,146.28442944452613
+All Population,Ethiopia,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",15.978960573927512,10.220842587618755,23.586461976244255
+All Population,Finland,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",97.57448492785556,86.10412598920897,109.30041130423618
+All Population,Fiji,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",33.4277834736564,22.024545407169363,46.49828845396292
+All Population,France,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",88.31360759840281,67.85784399751904,108.28444268010844
+All Population,Micronesia (Federated States of),2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",32.08722947117701,22.162140412988276,44.04543987416556
+All Population,Gabon,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",47.75547669171322,31.9073792780227,67.89185825009609
+All Population,United Kingdom,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",75.65789142917453,66.18324090067365,84.83560413627332
+All Population,Georgia,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",47.80445222151057,40.09290553700562,57.41687395851441
+All Population,Ghana,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",45.56508956485892,29.67261497992908,62.12512719655209
+All Population,Guinea,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",28.58081304450791,18.475798269362702,42.17074921862831
+All Population,Gambia,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",6.154736086524652,3.604191251221276,9.762280680999158
+All Population,Guinea-Bissau,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",25.54141441489102,15.309270456461576,41.456993031176395
+All Population,Equatorial Guinea,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",85.51018365538803,55.304190387205594,118.14750810894806
+All Population,Greece,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",50.01189854398798,40.77722525810788,60.57356856541276
+All Population,Grenada,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",125.36705423986699,98.12434821983038,160.8681364899887
+All Population,Greenland,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",33.224790938312594,19.336880789612998,50.21645353572874
+All Population,Guatemala,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",46.5634929917242,38.803108103734004,55.76301114033549
+All Population,Guam,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",21.00238282701977,16.335761347177012,26.4172237515594
+All Population,Guyana,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",75.76473732081693,62.95931286331884,91.49933392208557
+All Population,Honduras,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",20.345040018202358,13.394633377599403,28.177242219119407
+All Population,Croatia,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",56.63486025908307,45.86557107654449,70.21192939622524
+All Population,Haiti,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",61.2193019238866,38.84958345041132,91.08971013424137
+All Population,Hungary,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",45.52902918815554,37.86930237103919,54.70396261521889
+All Population,Indonesia,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",13.872696960356645,9.22648404803438,20.28497046996158
+All Population,India,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",8.348250646748555,5.780645833971376,11.481495272703318
+All Population,Ireland,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",70.93934440101535,55.0231254921279,88.02633507519607
+All Population,Iran (Islamic Republic of),2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",31.71837619372075,23.89463791001277,42.63659076026424
+All Population,Iraq,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",23.610885383112716,15.88062550210809,32.57898388731984
+All Population,Iceland,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",84.33377896264274,65.03935108794568,107.41292689925328
+All Population,Israel,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",38.15625714832849,30.281381939364806,46.74003509009009
+All Population,Italy,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",56.008578106548335,45.3150015412545,67.68759035208232
+All Population,Jamaica,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",136.36379167755462,109.45356267744259,166.86028323522638
+All Population,Jordan,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",37.20660274039771,26.947731235573194,51.592652281523584
+All Population,Japan,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",30.71625458945713,26.512112903577528,35.96410470917816
+All Population,Kazakhstan,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",19.82265963298026,16.934677420318835,23.40947906825085
+All Population,Kenya,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",26.982354752046405,17.889854338902026,38.66929387179313
+All Population,Kyrgyzstan,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",11.121654905745284,9.323721274721157,13.449546873744772
+All Population,Cambodia,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",9.323205850423502,6.084370885501164,13.757794093792574
+All Population,Kiribati,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",8.388339778716695,5.208589831193478,12.275217057756711
+All Population,Saint Kitts and Nevis,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",134.96768792634603,108.79248193681082,168.954973518353
+All Population,Republic of Korea,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",25.892879627969997,17.910125646443323,35.16165266938498
+All Population,Kuwait,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",26.7678221811942,20.086673726574478,33.932454107196925
+All Population,Lao People's Democratic Republic,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",12.598519469605545,8.134662624788758,19.020569192295877
+All Population,Lebanon,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",29.379593002455017,20.62472373043694,40.08239754001975
+All Population,Liberia,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",44.90135455595262,25.779434904576835,71.3363435077023
+All Population,Libya,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",20.171099119526964,11.630763923616977,31.524362416129023
+All Population,Saint Lucia,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",112.15351354204763,85.2831951865915,145.27724705849099
+All Population,Sri Lanka,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",18.537648218833464,11.83983937037897,25.68327683668657
+All Population,Lesotho,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",27.364781843739753,16.661248983977877,42.584508568875755
+All Population,Lithuania,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",114.30563955251176,95.10153291824845,138.56820761370662
+All Population,Luxembourg,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",54.19766866286446,42.54509465631294,67.60326376965908
+All Population,Latvia,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",101.62972394071377,80.90702529572815,125.18080575915339
+All Population,Morocco,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",8.828096574262474,3.9371511664264207,14.829674053528015
+All Population,Monaco,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",107.30446300182953,64.8971241919403,162.17663439469402
+All Population,Republic of Moldova,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",38.95896534086262,30.92371130514749,48.532296164701755
+All Population,Madagascar,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",39.0412287786119,25.381197708665702,57.747901819452835
+All Population,Maldives,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",24.020146167837638,15.617551494908998,34.48044339629669
+All Population,Mexico,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",39.45233845143265,32.79234023395177,46.999618095374956
+All Population,Marshall Islands,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",50.272874202609934,32.607651589070315,69.49913448005717
+All Population,North Macedonia,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",23.69901251665588,15.445556658559203,30.161595960614957
+All Population,Mali,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",23.50644769220975,15.214427996856566,35.17244915985261
+All Population,Malta,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",42.899034778963866,32.32773142232226,56.263156008867014
+All Population,Myanmar,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",20.65873986053774,13.115368702197548,30.845179080249203
+All Population,Montenegro,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",56.00493478426935,39.195588431485795,75.58916096925225
+All Population,Mongolia,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",7.488252361528926,5.422960466004726,10.336671745000238
+All Population,Northern Mariana Islands,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",48.365943623117914,28.611427163103176,77.40004172235949
+All Population,Mozambique,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",6.425874216521959,4.204775035251957,9.704083204324156
+All Population,Mauritania,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",45.39014941356131,26.677118302222926,68.95514702978488
+All Population,Mauritius,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",30.48016022777279,25.132907424862825,36.7697138721536
+All Population,Malawi,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",32.68461315711596,22.522152699158326,46.552686309652415
+All Population,Malaysia,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",15.984156688891874,11.640728748326737,20.59381070386537
+All Population,Namibia,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",36.16569379129714,24.670432734251992,45.01067939389705
+All Population,Niger,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",7.892864012152115,5.141920985004813,11.862889989844113
+All Population,Nigeria,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",45.75121878771887,28.84545245723097,68.80295492272175
+All Population,Nicaragua,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",61.60915992017374,45.631019813183215,81.81919374897666
+All Population,Niue,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",26.953392467945942,17.48542578982208,38.067761777640214
+All Population,Netherlands,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",73.59206248630285,61.53987159455178,89.09605867798095
+All Population,Norway,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",80.70292006069567,68.24250764433825,93.83851853313702
+All Population,Nepal,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",5.281484894720392,3.1327961145934013,8.595609895731023
+All Population,Nauru,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",47.67279594189389,30.872432220390692,66.54777403445571
+All Population,New Zealand,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",100.09792111721976,75.92943246919064,124.566776767335
+All Population,Oman,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",25.949524082731564,16.80837861641997,36.7203345983657
+All Population,Pakistan,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",8.304774761524518,5.405323643836293,11.712000111940522
+All Population,Panama,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",67.62050930065915,57.56835845554211,77.58870628112935
+All Population,Peru,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",78.40811140440697,53.830234609789855,103.92778239267217
+All Population,Philippines,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",25.006934917960706,17.643986745544034,32.00018655054732
+All Population,Palau,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",44.13685647156609,27.621894791831302,67.79382625045739
+All Population,Papua New Guinea,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",25.018772656735514,16.147056785188695,35.734555984884885
+All Population,Poland,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",41.91363848167886,37.601545879404945,46.09671746150034
+All Population,Puerto Rico,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",55.203174526241746,43.87321587848653,68.74368404003584
+All Population,Democratic People's Republic of Korea,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",12.884431224450372,8.244839942593497,20.164236484222442
+All Population,Portugal,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",87.21605739472028,67.23788134339215,109.0101712612181
+All Population,Paraguay,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",52.422364449649834,31.510045488619674,66.93028444105373
+All Population,Palestine,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",28.43837617330744,20.66554969059035,39.993327049793514
+All Population,Qatar,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",29.47067043257087,18.028883375520877,47.568861941962105
+All Population,Romania,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",33.88631366275029,27.68737964878303,40.994417115181214
+All Population,Russian Federation,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",58.93055310104719,50.13231126587122,71.27269403327385
+All Population,Rwanda,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",42.37839111628717,26.4128014011256,64.30158888886179
+All Population,Saudi Arabia,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",25.334966649904885,17.115186060298512,40.48517984582776
+All Population,Senegal,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",27.98718445592373,16.970783728697434,42.26106686149447
+All Population,Singapore,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",24.416532252961673,19.262712506167112,30.398878707587325
+All Population,Solomon Islands,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",46.096043793617845,29.30297878305195,68.13731898633742
+All Population,Sierra Leone,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",38.028750730770646,22.27194892503382,59.21996168311082
+All Population,El Salvador,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",76.4454164384594,55.19878639871879,111.84631065476181
+All Population,San Marino,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",49.82630182112116,31.261393601512108,73.83945213889929
+All Population,Somalia,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",17.561242815316543,11.352849055529,26.92298358981732
+All Population,Serbia,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",40.14524008999632,29.482664308047948,50.493997707208464
+All Population,South Sudan,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",28.409239024695324,17.924560000908738,41.69316241786731
+All Population,Sao Tome and Principe,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",31.22524007064637,17.259238667137197,48.24981216511109
+All Population,Suriname,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",64.8653496587385,44.19543938752157,80.60058027853817
+All Population,Slovakia,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",48.61792509703052,35.60307091146613,60.938360170597946
+All Population,Slovenia,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",79.70910231837274,67.16026648693943,94.63512667845478
+All Population,Sweden,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",81.10687003493862,69.70355506643251,93.24485625788984
+All Population,Eswatini,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",28.86906714428916,20.1136681883699,41.25778469380456
+All Population,Seychelles,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",83.2844926236938,54.134381944878584,118.61733558584591
+All Population,Syrian Arab Republic,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",17.60182264891518,12.131559604549436,24.77599175683651
+All Population,Chad,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",30.690034653364936,18.047927814861634,47.9491437715182
+All Population,Togo,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",29.101129180223943,16.371978795321898,45.21054633368909
+All Population,Thailand,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",27.52764824308597,18.369144527770434,44.764900202603314
+All Population,Tajikistan,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",7.7359555670004845,5.345540707304531,10.91076610362668
+All Population,Tokelau,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",18.667180378399504,11.825701582798096,27.59173792350743
+All Population,Turkmenistan,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",7.904642863464687,6.228050282201886,10.17991533848213
+All Population,Timor-Leste,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",12.022506184709174,7.487538843018927,17.600500281140036
+All Population,Tonga,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",45.75499411769924,30.07287132883188,66.08361053328503
+All Population,Trinidad and Tobago,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",143.8328239610247,116.81054149741531,177.17468797045981
+All Population,Tunisia,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",39.926408647217734,25.417231731237695,65.50902807534352
+All Population,Türkiye,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",37.03119743704869,26.21134484305527,49.369859344046134
+All Population,Tuvalu,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",66.16507622699974,43.328125198947525,95.09811934717266
+All Population,Taiwan,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",43.37021634400579,37.25953076253192,50.27442534736758
+All Population,United Republic of Tanzania,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",50.19672599246517,31.42835017448586,77.53638177090205
+All Population,Uganda,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",52.20121087555578,39.58337050875269,66.6802304763845
+All Population,Ukraine,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",39.76899333158951,31.83816779479574,47.97462326445887
+All Population,Uruguay,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",70.34217911220257,58.685204606691194,83.74554028133942
+All Population,United States of America,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",101.80912253336479,83.58026044784249,121.41235012228387
+All Population,Uzbekistan,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",7.899659170436188,6.551682301116917,9.517679128366305
+All Population,Saint Vincent and the Grenadines,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",105.83797203585605,83.1495964788536,136.1966972588574
+All Population,Venezuela (Bolivarian Republic of),2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",97.85871219778733,78.09970109361541,120.57545423058012
+All Population,United States Virgin Islands,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",106.15229819699137,81.20309201742086,136.3714250584624
+All Population,Viet Nam,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",5.5645839909928485,2.325089010192479,9.973030527315759
+All Population,Vanuatu,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",16.654915185203876,10.853252841890427,24.67516084717592
+All Population,Samoa,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",10.697585672691925,4.811623744302124,18.473226639867317
+All Population,Yemen,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",14.710229917720323,8.899631053502977,21.90699201348303
+All Population,South Africa,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",49.23747302054736,37.37206787010703,62.098421980235884
+All Population,Zambia,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",76.36021792502493,51.62831834217333,109.00013429113427
+All Population,Zimbabwe,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",40.35905527906958,25.878788831740067,58.742745265001616
+All Population,Egypt,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",14.343782263787295,8.940676555953608,19.76483433594301
+All Population,Sudan,2021,Age-standardized,Male,Prostate cancer,"New cases per 100,000",19.131143881502386,11.04499152535339,31.03852037219828
+
+"Institute for Health Metrics and Evaluation (IHME). GBD Compare Data Visualization. Global Burden of Disease (GBD) Study 2023. Seattle, WA: IHME, University of Washington, 2025. Available from https://vizhub.healthdata.org/gbd-compare/. (Accessed 1/22/2026). For terms and conditions of use, please visit http://www.healthdata.org/about/terms-and-conditions"
